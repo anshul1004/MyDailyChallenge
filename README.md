@@ -1,2 +1,2 @@
-# HTML-CSS-Basics
+# My Daily Challenge
 Basics of HTML and CSS
